@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Practice
 {
-    class Program
+    public class static Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("text");
+            Console.WriteLine(AddTwoNumbers.AddTwoNumbersMethod);
         }
     }
 }
