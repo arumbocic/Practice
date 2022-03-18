@@ -10,7 +10,8 @@ namespace Practice
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("text"):
+            Console.WriteLine("text");
+            Console.WriteLine("text2");
         }
     }
 }
